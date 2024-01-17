@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Eric Sohel</title>
+    <title>Eric s</title>
     <link>https://esohel30.github.io/</link>
-    <description>Recent content on Eric Sohel</description>
+    <description>Recent content on Eric s</description>
     <image>
       <url>https://esohel30.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://esohel30.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
@@ -12,6 +12,15 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://esohel30.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Coming Soon!</title>
+      <link>https://esohel30.github.io/fun-math-problem/project-03/</link>
+      <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://esohel30.github.io/fun-math-problem/project-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Flask-Based Twitter Clone with Live Chatting</title>
       <link>https://esohel30.github.io/projects/project-03/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
@@ -19,15 +28,6 @@
       <guid>https://esohel30.github.io/projects/project-03/</guid>
       <description>This project is a web-based social media and chat application built using Flask, a Python web framework, and Flask-SocketIO for real-time communications. It provides a platform for users to sign in, create and view tweets, and engage in live chat sessions. The application integrates social media functionalities with real-time chat capabilities to offer a comprehensive user experience.
 Key Features User Authentication: Supports user sign-in and sign-up with credential verification and account creation.</description>
-    </item>
-    
-    <item>
-      <title>Putnam Problem</title>
-      <link>https://esohel30.github.io/fun-math-problem/project-03/</link>
-      <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://esohel30.github.io/fun-math-problem/project-03/</guid>
-      <description>For a positive integer ( n ), let ( f_n(x) = \cos(x) \cos(2x) \cos(3x) \cdots \cos(nx) ). Find the smallest ( n ) such that ( \left| f&amp;rsquo;&amp;rsquo;_n(0) \right| &amp;gt; 2023 ).</description>
     </item>
     
     <item>
