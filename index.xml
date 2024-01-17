@@ -12,12 +12,13 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://esohel30.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Twitter Clone</title>
+      <title>Flask-Based Twitter Clone with Live Chatting</title>
       <link>https://esohel30.github.io/projects/project-03/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://esohel30.github.io/projects/project-03/</guid>
-      <description>Technologies used: Python, Flask, Sqlite, css, html</description>
+      <description>Description This project is a web-based social media and chat application built using Flask, a Python web framework, and Flask-SocketIO for real-time communications. It provides a platform for users to sign in, create and view tweets, and engage in live chat sessions. The application integrates social media functionalities with real-time chat capabilities to offer a comprehensive user experience.
+Key Features User Authentication: Supports user sign-in and sign-up with credential verification and account creation.</description>
     </item>
     
     <item>
