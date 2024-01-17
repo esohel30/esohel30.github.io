@@ -17,26 +17,28 @@
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://esohel30.github.io/projects/project-03/</guid>
-      <description>Description This project is a web-based social media and chat application built using Flask, a Python web framework, and Flask-SocketIO for real-time communications. It provides a platform for users to sign in, create and view tweets, and engage in live chat sessions. The application integrates social media functionalities with real-time chat capabilities to offer a comprehensive user experience.
+      <description>This project is a web-based social media and chat application built using Flask, a Python web framework, and Flask-SocketIO for real-time communications. It provides a platform for users to sign in, create and view tweets, and engage in live chat sessions. The application integrates social media functionalities with real-time chat capabilities to offer a comprehensive user experience.
 Key Features User Authentication: Supports user sign-in and sign-up with credential verification and account creation.</description>
     </item>
     
     <item>
-      <title>Pacdude</title>
-      <link>https://esohel30.github.io/projects/project-02/</link>
+      <title>Pac-Dude: A Processing-Based Arcade Game</title>
+      <link>https://esohel30.github.io/projects/erpred/</link>
       <pubDate>Tue, 05 Apr 2022 23:15:00 +0700</pubDate>
       
-      <guid>https://esohel30.github.io/projects/project-02/</guid>
-      <description></description>
+      <guid>https://esohel30.github.io/projects/erpred/</guid>
+      <description>&amp;ldquo;Pac-Dude&amp;rdquo; is a dynamic reimagining of the classic Pac-Man game, developed using the Processing language. This project not only offers a nostalgic arcade experience but also incorporates advanced programming concepts, including sophisticated pathfinding algorithms and state management for the ghost characters.
+Key Features Enhanced Gameplay Mechanics: Combines traditional Pac-Man gameplay with new challenges and dynamic difficulty scaling. Custom Map Generation: Algorithmically generated maps provide a unique experience in each game session.</description>
     </item>
     
     <item>
-      <title>Musically</title>
+      <title>Musically - A Music Analysis Application for Song Lovers!</title>
       <link>https://esohel30.github.io/projects/project-01/</link>
       <pubDate>Mon, 04 Apr 2022 23:15:00 +0700</pubDate>
       
       <guid>https://esohel30.github.io/projects/project-01/</guid>
-      <description>Technologies Used: Processing, Java</description>
+      <description>This web application, designed for music lovers, integrates various functionalities including user authentication, music data access through the Spotify API, and a unique feature for lyric generation using Markov chains.
+Features User Authentication Login/Signup: Users can create an account or log in to access personalized features. Logout: Session-based logout functionality for security. Profile Management: Options for users to view and edit their profile, including password changes. Music Data Integration Spotify API Usage: Fetches data from Spotify for artist and song information.</description>
     </item>
     
   </channel>
